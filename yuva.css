@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Young serif",serif;
+}
+.container{
+    padding: 50px;
+}
+.div1{
+    border:solid black;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+.home{
+    color: white;
+    font-size: medium;
+    background-color: orangered;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+.div2{
+    color: black;
+}
+button{
+      border: solid black;
+      background-color: brown;
+      color: white;
+      margin-top: 5px;
+      margin-left: 10px;
+      margin-bottom: 5px;
+      margin-bottom: 10px;
+      padding: 10px;
+}
